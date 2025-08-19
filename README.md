@@ -1,1 +1,1 @@
-# Prediction-of-Poduct-Sales
+# Prediction-of-Product-Sales
