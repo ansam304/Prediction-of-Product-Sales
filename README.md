@@ -11,3 +11,5 @@ After understanding the data, a machine learning model was created to predict fu
 
 
 <img width="686" height="589" alt="image" src="https://github.com/user-attachments/assets/7e3b2448-8b31-483b-a74e-c4de6f233b95" />
+
+ `The heatmap above shows the correlation between the columns. We note that the correlation between "List Price" and "Item Outlet Sales" is positive and moderate. There is also a positive but low correlation between "Item Outlet Sales" and "Outlet ID", and a negative and low correlation between "Item Visibility" and "Item Outlet Sales".`
