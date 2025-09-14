@@ -10,3 +10,4 @@ After understanding the data, a machine learning model was created to predict fu
 `The countplot above shows the frequency of item types by item fat content. We observe that 'Low Fat' items have higher sales compared to 'Regular' items and that some items dont include any regular items .`
 
 
+<img width="686" height="589" alt="image" src="https://github.com/user-attachments/assets/7e3b2448-8b31-483b-a74e-c4de6f233b95" />
