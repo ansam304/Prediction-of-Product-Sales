@@ -1,4 +1,4 @@
-# Title that recommends an action Prediction of Product Sales
+# Prediction of Product Sales
 ## Subtitle describing the analysis 
 
 **Author**: Ansam Aslan
