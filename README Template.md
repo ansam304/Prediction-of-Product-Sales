@@ -22,14 +22,15 @@ It includes around 8,500 observations and 12 features, such as item type, weight
 
 ## Results
 
-#### frequency of item types by fat content<img 
+#### frequency of item types by fat content
 
 <img width="912" height="958" alt="image" src="https://github.com/user-attachments/assets/9d3e54c0-565c-45fe-b67d-4bb866d24d6c" />
 
 
 > This chart shows the frequency of item types by fat content, We observe that 'Low Fat' items have higher sales compared to 'Regular' items, and some item types do not include any regular products.
 
-#### Sales distribution by outlet type<img <img width="578" height="74" alt="image" src="https://github.com/user-attachments/assets/1bd67868-2d55-4510-8a6b-32b9e08e442e" />
+#### Sales distribution by outlet type
+<img width="578" height="74" alt="image" src="https://github.com/user-attachments/assets/1bd67868-2d55-4510-8a6b-32b9e08e442e" />
 This chart shows the sales distribution by outlet type, we notice that Supermarket Type 3 has the highest and most diverse sales, Supermarket Types 1 and 2 have moderate sales, while the Grocery Store has the lowest sales distribution.
 
 ## Model
