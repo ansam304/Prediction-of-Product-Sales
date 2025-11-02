@@ -22,10 +22,7 @@ It includes around 8,500 observations and 12 features, such as item type, weight
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
-
-
-#### frequency of item types by fat content<img width="782" height="88" alt="image" src="https://github.com/user-attachments/assets/b3c88089-30f0-4a2f-ad1e-a65266d8ad36" />
+#### frequency of item types by fat content<img 
 
 <img width="912" height="958" alt="image" src="https://github.com/user-attachments/assets/9d3e54c0-565c-45fe-b67d-4bb866d24d6c" />
 
