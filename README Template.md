@@ -26,12 +26,12 @@ It includes around 8,500 observations and 12 features, such as item type, weight
 <img width="912" height="958" alt="image" src="https://github.com/user-attachments/assets/9d3e54c0-565c-45fe-b67d-4bb866d24d6c" />
 
 
-> This chart shows the frequency of item types by fat content, The plot indicates that low-fat items tend to generate higher sales compared to regular items
+> This chart shows the frequency of item types by fat content, The plot indicates that low-fat items tend to generate higher sales compared to regular items.
 
 #### Sales distribution by outlet type
 <img width="876" height="989" alt="image" src="https://github.com/user-attachments/assets/9e65f765-56d8-48cb-9856-6cd7724e5769" />
 
-This chart shows the sales distribution by outlet type, “Supermarket Type 3 outlets achieve the highest and most diverse sales distribution, whereas grocery stores record the lowest.
+This chart shows the sales distribution by outlet type, Supermarket Type 3 outlets achieve the highest and most diverse sales distribution, whereas grocery stores record the lowest.
 
 ## Model
 
@@ -47,8 +47,8 @@ These results indicate moderate predictive performance, suggesting that the mode
 
 ## Recommendations:
 
-- We recommend that the stakeholder continue selling both types (Low Fat and Regular), with a stronger focus on Low Fat items, as they achieve better results.
-- Supermarkets Type1&2 Try to improve them with offers, better product display, and marketing.
+- We recommend that stakeholders continue selling both types (Low Fat and Regular), with a stronger focus on Low Fat items, as they achieve better results.
+- Supermarket Types 1 & 2: improve performance through offers, better product display, and marketing.
 - Grocery Stores: improve the products or think about reducing focus on this store type.
 
 
@@ -62,6 +62,7 @@ These results indicate moderate predictive performance, suggesting that the mode
 
 For any questions or collaborations, please contact:
 
-📧  ansam.aslan@gmail.com
-💼  www.linkedin.com/in/ansam-aslan-b8094a312
-🧠  https://github.com/ansam304
+📧  ansam.aslan@gmail.com  
+💼  [LinkedIn](https://www.linkedin.com/in/ansam-aslan-b8094a312)  
+🧠  [GitHub](https://github.com/ansam304)
+
