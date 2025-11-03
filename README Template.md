@@ -1,12 +1,11 @@
 # Prediction of Product Sales
-## Using Machine Learning to Forecast Food Item Sales Across Different Outlets 
+## “Predicting Food Item Sales Across Multiple Outlets Using Machine Learning” 
 
 **Author**: Ansam Aslan
 
 ### Business problem:
 
-This project focuses on predicting the sales of food items in different stores. The goal is to help the retailer understand which product and store features affect sales the most. First, the data was cleaned by fixing missing values and errors. Then, visual tools like countplot and heatmaps were used to explore the data and find useful patterns. After understanding the data, a machine learning model was created to predict future sales. This model can help the business make better decisions about prices, stock, and store management to improve total sales.
-Ultimately, the insights from this project aim to support strategic inventory planning and optimize revenue.
+This project focuses on predicting the sales of food items in different stores. The goal is to help the retailer understand which product and store features affect sales the most. First, the data was cleaned by fixing missing values and errors. Then, visual tools like countplot and heatmaps were used to explore the data and find useful patterns. After understanding the data, a machine learning model was created to predict future sales, This model provides actionable insights to support better pricing, stock optimization, and strategic store management decisions to maximize overall revenue.
 
 
 ### Data:
@@ -27,12 +26,12 @@ It includes around 8,500 observations and 12 features, such as item type, weight
 <img width="912" height="958" alt="image" src="https://github.com/user-attachments/assets/9d3e54c0-565c-45fe-b67d-4bb866d24d6c" />
 
 
-> This chart shows the frequency of item types by fat content, We observe that 'Low Fat' items have higher sales compared to 'Regular' items, and some item types do not include any regular products.
+> This chart shows the frequency of item types by fat content, The plot indicates that low-fat items tend to generate higher sales compared to regular items
 
 #### Sales distribution by outlet type
 <img width="876" height="989" alt="image" src="https://github.com/user-attachments/assets/9e65f765-56d8-48cb-9856-6cd7724e5769" />
 
-This chart shows the sales distribution by outlet type, we notice that Supermarket Type 3 has the highest and most diverse sales, Supermarket Types 1 and 2 have moderate sales, while the Grocery Store has the lowest sales distribution.
+This chart shows the sales distribution by outlet type, “Supermarket Type 3 outlets achieve the highest and most diverse sales distribution, whereas grocery stores record the lowest.
 
 ## Model
 
@@ -44,24 +43,25 @@ The final model selected was a Random Forest Regressor due to its superior perfo
 - RMSE= 1,066.609
 - R^2= 0.588
    
-These results indicate that the model generalizes well and can predict sales with high accuracy.
+These results indicate moderate predictive performance, suggesting that the model successfully captures key sales patterns in the data but could benefit from further tuning, additional features, or deeper exploration to improve accuracy and generalization.
 
 ## Recommendations:
 
-- we recommend that the stakeholder continue selling both types (Low Fat and Regular), with a stronger focus on Low Fat items, as they achieve better results.
+- We recommend that the stakeholder continue selling both types (Low Fat and Regular), with a stronger focus on Low Fat items, as they achieve better results.
 - Supermarkets Type1&2 Try to improve them with offers, better product display, and marketing.
 - Grocery Stores: improve the products or think about reducing focus on this store type.
 
 
 ## Limitations & Next Steps
 
-More of your own text here
-
+- The model does not consider seasonal or promotional effects that could influence sales.
+- Adding time-based variables and external data (like holidays or discounts) could improve prediction accuracy.
+- Further hyperparameter tuning and feature selection are recommended for better model generalization.
 
 ### For further information
 
 For any questions or collaborations, please contact:
 
-📧 ansam.aslan@gmail.com
-💼 www.linkedin.com/in/ansam-aslan-b8094a312
-🧠 https://github.com/ansam304
+📧  ansam.aslan@gmail.com
+💼  www.linkedin.com/in/ansam-aslan-b8094a312
+🧠  https://github.com/ansam304
